@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\matkul jurusan rpl telu\\Semester 4\\praktikum kpl\\tp_mod6\\tp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088BE76F-1174-400A-802B-B30BBE57A9DC}|tp6\\tp6.csproj|d:\\matkul jurusan rpl telu\\semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088BE76F-1174-400A-802B-B30BBE57A9DC}|tp6\\tp6.csproj|solutionrelative:tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088BE76F-1174-400A-802B-B30BBE57A9DC}|tp6\\tp6.csproj|d:\\matkul jurusan rpl telu\\semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088BE76F-1174-400A-802B-B30BBE57A9DC}|tp6\\tp6.csproj|solutionrelative:tp6\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "D:\\matkul jurusan rpl telu\\Semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "tp6\\SayaTubeVideo.cs",
+              "ToolTip": "D:\\matkul jurusan rpl telu\\Semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\SayaTubeVideo.cs",
+              "RelativeToolTip": "tp6\\SayaTubeVideo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:56:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\matkul jurusan rpl telu\\Semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\Program.cs",
+              "RelativeDocumentMoniker": "tp6\\Program.cs",
+              "ToolTip": "D:\\matkul jurusan rpl telu\\Semester 4\\praktikum kpl\\tp_mod6\\tp6\\tp6\\Program.cs",
+              "RelativeToolTip": "tp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:53:39.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
