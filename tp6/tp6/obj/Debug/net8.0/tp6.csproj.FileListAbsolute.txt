@@ -1,0 +1,15 @@
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\bin\Debug\net8.0\tp6.exe
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\bin\Debug\net8.0\tp6.deps.json
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\bin\Debug\net8.0\tp6.runtimeconfig.json
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\bin\Debug\net8.0\tp6.dll
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\bin\Debug\net8.0\tp6.pdb
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.AssemblyInfoInputs.cache
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.AssemblyInfo.cs
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.csproj.CoreCompileInputs.cache
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.sourcelink.json
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.dll
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\refint\tp6.dll
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.pdb
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\tp6.genruntimeconfig.cache
+D:\matkul jurusan rpl telu\Semester 4\praktikum kpl\tp_mod6\tp6\tp6\obj\Debug\net8.0\ref\tp6.dll

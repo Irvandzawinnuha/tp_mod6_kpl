@@ -17,6 +17,32 @@ namespace tp6
             this.title = title;
             Random randomId = new Random();
             id = randomId.Next(10000, 99999);
+
+            try
+            {
+                this.title = title;
+
+                if (title == null)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+
+                if (title.Length > 100)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+            }
+
+            catch (ArgumentNullException n_exc)
+            {
+                Console.WriteLine(n_exc.Message);
+            }
+
+            catch (ArgumentOutOfRangeException ofvexc)
+            {
+                Console.WriteLine(ofvexc.Message);
+            }
+
         }
 
         public void increasePlayCount(int increment)
